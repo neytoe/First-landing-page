@@ -1,0 +1,133 @@
+body {
+  
+  font-family: "Montserrat", sans-serif;
+  margin: auto;
+  max-width:960px;
+  
+}
+
+
+
+/* FOR the navigation bar */
+li a {
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 16px;
+  color: black;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 10%;
+}
+
+.main-nav {
+  list-style: none;
+}
+
+.main-nav li {
+  display: inline-block;
+  padding: 0px 20px;
+  color: black;
+}
+
+/* for elements in the main tag of the body */
+
+.latestproducts {
+  margin: 0 auto;
+  
+  display: flex;
+  margin-top: 50px;
+}
+
+button {
+  border-radius: 20px;
+  width: 100px;
+  height: 40px;
+  background: #11632b;
+  border: none;
+  color: aliceblue;
+}
+
+button:hover {
+  background: #05b356;
+}
+
+.div2 {
+  margin-top: 100px;
+  
+  text-align: left;
+}
+
+h2 p {
+  font-weight: 500;
+}
+
+img {
+  width: 300px;
+  border-radius: 25px;
+  height: 500px;
+  padding-right: 10px;
+  margin-bottom: 100px;
+}
+/* for elements in the first section tag */
+.logo {
+  display: flex;
+  justify-content: center;
+}
+
+.photo {
+  margin-top: 100px;
+  height: 100px;
+  width: 50px;
+}
+
+
+
+.slim{
+  width: 300px;
+  border-radius: 25px;
+  height: 500px;
+  padding-right: 10px;
+  margin-bottom: 50px;
+}
+
+.slider{
+  display: flex;
+
+  
+  
+  }
+
+.letterelements{
+  align-items: center;
+}
+
+.letter{
+  text-align: center;
+
+  
+ 
+}
+
+.letter button{
+  align-items: center;
+}
+
+.footer{
+  margin-top:50px;
+  display: flex;
+  justify-content: space-between;
+  width: 700px;
+
+}
+
+.lastfooter{
+  display:flex;
+  margin-left: 400px;
+}
+
+.middiv{
+  margin: 20px;
+}
